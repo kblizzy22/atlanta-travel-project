@@ -46,6 +46,7 @@ body {
 
 .card-header.grid {
   grid-gap: 0;
+  grid-auto-rows: 1fr;
 }
 
 .card-body {
